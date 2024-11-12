@@ -5,7 +5,7 @@ A curated list of awesome references for agentic workflows with Generative AI ac
 [Solution template](https://github.com/aws-samples/amazon-bedrock-agents-cancer-biomarker-discovery)
 
 * [**Research and Development**](./Research_and_Development.md)
-  - [Biomarker discovery](./Research_and_Development.md#Biomarker-discovery-with-LLM-agents)
+  - [Biomarker discovery with LLM agents](./Research_and_Development.md#Biomarker-discovery-with-LLM-agents)
   - [Drug Design and Drug Discovery](./Research_and_Development.md#drug-discoverydrug-design)
   - [Medical Imaging](./Research_and_Development.md#medical-imaging)
   - [Knowledge Graph ](./Research_and_Development.md#knowledge-graph) 
