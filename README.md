@@ -33,6 +33,9 @@ A curated list of awesome references for agentic workflows with Generative AI ac
   - [Best practices for building robust generative AI applications with Amazon Bedrock Agents – Part 2](https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-robust-generative-ai-applications-with-amazon-bedrock-agents-part-2/)
   - [Multi-agent orchestrator](https://awslabs.github.io/multi-agent-orchestrator/general/how-it-works/)
   - [Agents and function calling with Bedrock samples](https://github.com/aws-samples/amazon-bedrock-samples/tree/main/agents-and-function-calling)
+ 
+ * [**Bedrock Agent architecture**]
+   ![High level solution design](Agentic workflows HCLS-End-to-end with tools.jpg)
 
 
 ## Contributing
