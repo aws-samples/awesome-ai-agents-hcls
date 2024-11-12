@@ -1,6 +1,8 @@
 # awesome-aiml-hcls
 
-A curated list of awesome references for AIML in Life Sciences
+A curated list of awesome references for agentic workflows with Generative AI across the HCLS value chain
+
+[Solution template](https://github.com/aws-samples/amazon-bedrock-agents-cancer-biomarker-discovery)
 
 * [**Research and Development**](./Research_and_Development.md)  
   - [Drug Design and Drug Discovery](./Research_and_Development.md#drug-discoverydrug-design)
@@ -20,21 +22,17 @@ A curated list of awesome references for AIML in Life Sciences
   - [Digital Therapeutics](./Commercial_and_Medical_Affairs.md#digital-therapeutics)
   - [Customer references](./Commercial_and_Medical_Affairs.md#customer-references)
 
-* [**Compliance**](compliance.md)   
-  - [Architecting for HIPAA Security and Compliance on AWS](https://docs.aws.amazon.com/pdfs/whitepapers/latest/architecting-hipaa-security-and-compliance-on-aws/architecting-hipaa-security-and-compliance-on-aws.pdf?refid=cr_card)
-  - [GxP Systems on AWS](https://docs.aws.amazon.com/whitepapers/latest/gxp-systems-on-aws/gxp-systems-on-aws.html)
-
-* [**ML Platform**](ML_platform.md)
-  - [Getting started with Amazon SageMaker](https://github.com/aws-samples/awesome-sagemaker/blob/main/getting_started.md#ml-platform-setup)
-  - [AstraZeneca Accelerates Time to Insights Using Amazon SageMaker](https://aws.amazon.com/solutions/case-studies/AstraZeneca-case-study/)
-  - [Janssen Pharmaceuticals Increases Machine Learning Accuracy by 21% Using Amazon SageMaker](https://aws.amazon.com/solutions/case-studies/janssen-case-study/)
-  - [Bayer Innovation Lab Provides Smart Pest Monitoring Solution, Reduces Architecture Costs by 94% on AWS](https://aws.amazon.com/solutions/case-studies/bayer/)
-
-To get started with setting up a ML platform and building, training and deploying models, see Amazon SageMaker [awesome-sagemaker](https://github.com/aws-samples/awesome-sagemaker)
+* [**GenAI Platform**](ML_platform.md)
+  - [Guidance for a Multi-Tenant, Generative AI Gateway with Cost and Usage Tracking on AWS](https://aws.amazon.com/solutions/guidance/multi-tenant-generative-ai-gateway-with-cost-and-usage-tracking-on-aws/)
+  - [Build a multi-tenant generative AI environment for your enterprise on AWS](https://aws.amazon.com/blogs/machine-learning/build-a-multi-tenant-generative-ai-environment-for-your-enterprise-on-aws/)
+  - [Implementing tenant isolation using Agents for Amazon Bedrock in a multi-tenant environment](https://aws.amazon.com/blogs/machine-learning/implementing-tenant-isolation-using-agents-for-amazon-bedrock-in-a-multi-tenant-environment/)
 
 * [**Other resources**]
   - [Machine Learning Best Practices in Healthcare and Life Sciences](https://docs.aws.amazon.com/whitepapers/latest/ml-best-practices-healthcare-life-sciences/ml-best-practices-healthcare-life-sciences.html)
-  - [AWS for Life Science eBook](https://d1.awsstatic.com/psc-digital/2022/gc-a4hcls/aws-for-life-sciences/AWS-for-Life-Sciences-eBook-EN.pdf)
+  - [Best practices for building robust generative AI applications with Amazon Bedrock Agents – Part 1](https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-robust-generative-ai-applications-with-amazon-bedrock-agents-part-1/)
+  - [Best practices for building robust generative AI applications with Amazon Bedrock Agents – Part 2](https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-robust-generative-ai-applications-with-amazon-bedrock-agents-part-2/)
+  - [Multi-agent orchestrator](https://awslabs.github.io/multi-agent-orchestrator/general/how-it-works/)
+  - [Agents and function calling with Bedrock samples](https://github.com/aws-samples/amazon-bedrock-samples/tree/main/agents-and-function-calling)
 
 
 ## Contributing
@@ -46,5 +44,4 @@ Show your appreciation to those who have contributed to the project.
 ## License
 For open source projects, say how it is licensed.
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+
