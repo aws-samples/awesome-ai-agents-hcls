@@ -1,4 +1,4 @@
-# awesome-aiml-hcls
+# awesome-ai-agents-hcls
 
 A curated list of awesome references for agentic workflows with Generative AI across the HCLS value chain
 
