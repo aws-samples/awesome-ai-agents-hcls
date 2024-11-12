@@ -35,7 +35,7 @@ A curated list of awesome references for agentic workflows with Generative AI ac
   - [Agents and function calling with Bedrock samples](https://github.com/aws-samples/amazon-bedrock-samples/tree/main/agents-and-function-calling)
  
  * [**Bedrock Agent architecture**]
-   - [High level solution design](Agentic workflows HCLS-End-to-end with tools.jpg)
+   ![High level solution design](Agentic workflows HCLS-End-to-end with tools.jpg)
 
 
 ## Contributing
