@@ -1,5 +1,10 @@
 ## Research and Development
 
+### Biomarker discovery with LLM agents
+- [Code example][Accelerate analysis and discovery of cancer biomarkers with Agents for Bedrock](https://github.com/aws-samples/amazon-bedrock-agents-cancer-biomarker-discovery/tree/main)
+
+## Other AI worfklows 
+
 ### Drug discovery/Drug design
 - [Blog] [Predicting protein structures at scale using AWS Batch](https://aws.amazon.com/blogs/industries/predicting-protein-structures-at-scale-using-aws-batch/)
 - [Blog] [Optimize Protein Folding Costs with OpenFold on AWS Batch](https://aws.amazon.com/blogs/hpc/optimize-protein-folding-costs-with-openfold-on-aws-batch/)
